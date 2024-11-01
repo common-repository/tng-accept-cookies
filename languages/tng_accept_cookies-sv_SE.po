@@ -1,0 +1,3351 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TNG Accept Cookies\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-21 00:08+0100\n"
+"PO-Revision-Date: 2014-04-21 00:08+0100\n"
+"Last-Translator: Jon Täng <contact@jontang.se>\n"
+"Language-Team: jontang.se <contact@jontang.se>\n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;_n;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../inc/accept-cookies-settings.php:25 ../inc/accept-cookies-settings.php:66
+msgid "TNG Accept Cookies Settings"
+msgstr "Inställningar för TNG Accept Cookies"
+
+#: ../inc/accept-cookies-settings.php:26
+msgid "Accept Cookies"
+msgstr "Accept Cookies"
+
+#: ../inc/accept-cookies-settings.php:41 ../inc/accept-cookies-settings.php:50
+msgid "Help"
+msgstr "Hjälp"
+
+#: ../inc/accept-cookies-settings.php:42
+msgid "Find out more at"
+msgstr "Mer information finns på"
+
+#: ../inc/accept-cookies-settings.php:45
+msgid "The author"
+msgstr "Författaren"
+
+#: ../inc/accept-cookies-settings.php:93
+msgid "Cookie Information"
+msgstr "Kakinformation"
+
+#: ../inc/accept-cookies-settings.php:100
+msgid "Cookie Page"
+msgstr "Sida för information"
+
+#: ../inc/accept-cookies-settings.php:108
+msgid "Cookie URL"
+msgstr "URL för information"
+
+#: ../inc/accept-cookies-settings.php:139
+msgid "Follow me"
+msgstr "Följ mig på"
+
+#: ../inc/accept-cookies-settings.php:147
+msgid "Don't forget to leave a"
+msgstr "Glöm inte att lämna en"
+
+#: ../inc/accept-cookies-settings.php:147
+msgid "Review"
+msgstr "recension"
+
+#: ../inc/accept-cookies-settings.php:161
+msgid "Choose"
+msgstr "Välj"
+
+#: ../inc/accept-cookies-settings.php:168
+msgid ""
+"Choose a page for informing your visitor about cookies used on your site."
+msgstr ""
+"Välj en sida för att informera dina besökare om kakor (cookies) som används "
+"på din webbplats."
+
+#: ../inc/accept-cookies-settings.php:180
+msgid ""
+"Enter a URL for external information about cookies. Local page overrides URL."
+msgstr ""
+"Ange en länk till en extern källa för information om kakor (cookies). En "
+"lokal sida dominerar över en länk."
+
+#: ../tng-accept-cookies.php:98
+msgid "More about cookies"
+msgstr "Mer om kakor"
+
+#: ../tng-accept-cookies.php:105
+msgid "Read more about"
+msgstr "Läs mer om"
+
+#: ../tng-accept-cookies.php:106
+msgid "cookies on this site"
+msgstr "kakor på denna hemsida"
+
+#: ../tng-accept-cookies.php:110
+msgid "This website uses cookies to enhance your visit."
+msgstr "Denna webbplats använder cookies för att förbättra din upplevelse."
+
+#: ../tng-accept-cookies.php:113
+msgid "I accept cookies"
+msgstr "Jag accepterar kakor"
+
+#: ../tng-accept-cookies.php:115
+msgid "I dont't accept cookies"
+msgstr "Jag accepterar inte kakor"
+
+#~ msgid ""
+#~ "A Widget for embedding stuff. Using oEmbed. Supporting all WordPress "
+#~ "embed formats"
+#~ msgstr ""
+#~ "En widget för enbäddning av innehåll. Använder oEmbed. Stödjer alla "
+#~ "format WordPress kan bädda in."
+
+#~ msgid "TNG Embed Widget"
+#~ msgstr "TNG Embed Widget"
+
+#~ msgid "Something"
+#~ msgstr "En titel"
+
+#~ msgid "Widget title:"
+#~ msgstr "Widgettitel:"
+
+#~ msgid "Embed URL:"
+#~ msgstr "Länk:"
+
+#~ msgid "Width:"
+#~ msgstr "Bredd:"
+
+#~ msgid "Ratio:"
+#~ msgstr "Format:"
+
+#~ msgid "A video"
+#~ msgstr "En video"
+
+#~ msgid "Video width:"
+#~ msgstr "Videobredd:"
+
+#~ msgid "Video ratio:"
+#~ msgstr "Videoformat:"
+
+#~ msgid "A Widget for displaying a video"
+#~ msgstr "En widget för att visa video"
+
+#~ msgid "Prices"
+#~ msgstr "Priser"
+
+#~ msgid "Price"
+#~ msgstr "Pris"
+
+#~ msgid "Add new item"
+#~ msgstr "Lägg till"
+
+#~ msgid "All items"
+#~ msgstr "Alla objekt"
+
+#~ msgid "Edit item"
+#~ msgstr "Redigera"
+
+#~ msgid "New item"
+#~ msgstr "Nytt"
+
+#~ msgid "View item"
+#~ msgstr "Visa"
+
+#~ msgid "Search items"
+#~ msgstr "Sök bland objekt"
+
+#~ msgid "No items was found"
+#~ msgstr "Inget objekt hittades"
+
+#~ msgid "No items was found in trash"
+#~ msgstr "Inget objekt hittades i papperskorgen"
+
+#~ msgid "Parent item"
+#~ msgstr "Föräldraobjekt"
+
+#~ msgid "A post type for manage Prices"
+#~ msgstr "En posttyp för hantering av priser"
+
+#~ msgid "price"
+#~ msgstr "pris"
+
+#~ msgid "Price category"
+#~ msgstr "Priskategori"
+
+#~ msgid "Price categories"
+#~ msgstr "Priskategorier"
+
+#~ msgid "price_cat"
+#~ msgstr "priskategori"
+
+#~ msgid "prices"
+#~ msgstr "priser"
+
+#~ msgid "Price tag"
+#~ msgstr "Pristagg"
+
+#~ msgid "Price tags"
+#~ msgstr "Pristaggar"
+
+#~ msgid "price_tag"
+#~ msgstr "pristagg"
+
+#~ msgid "Post type support"
+#~ msgstr "Använd:"
+
+#~ msgid "Use Post type archive"
+#~ msgstr "Använd arkiv:"
+
+#~ msgid "Use Post type category"
+#~ msgstr "Använd kategori:"
+
+#~ msgid "Use Post type tag"
+#~ msgstr "Använd ettikett: (tagg)"
+
+#~ msgid "Page template"
+#~ msgstr "Sidmall:"
+
+#~ msgid "Options"
+#~ msgstr "Inställningar"
+
+#~ msgid "For more information:"
+#~ msgstr "För mer information:"
+
+#~ msgid "Overview"
+#~ msgstr "Överblick"
+
+#~ msgid "Price options"
+#~ msgstr "Inställningar för Pris"
+
+#~ msgid "Choos a page to use with the page template."
+#~ msgstr "Välj vilken sida som ska använda sidmallen."
+
+#~ msgid "Choose page"
+#~ msgstr "Välj en sida"
+
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#~ msgid "Editor"
+#~ msgstr "Textredigerare"
+
+#~ msgid "Thumbnail"
+#~ msgstr "Utvald bild"
+
+#~ msgid "Excerpt"
+#~ msgstr "Utdrag"
+
+#~ msgid "Trackbacks"
+#~ msgstr "Spårning (trackbacks)"
+
+#~ msgid "Custom fields"
+#~ msgstr "Specialfält"
+
+#~ msgid "Comments"
+#~ msgstr "Kommentarer"
+
+#~ msgid "Revisions"
+#~ msgstr "Versionshantering"
+
+#~ msgid "Page attributes"
+#~ msgstr "Sidattribut"
+
+#~ msgid "Post formats"
+#~ msgstr "Postformat"
+
+#~ msgid "404 - Page not found"
+#~ msgstr "Sidan kunde inte hittas"
+
+#~ msgid "Sorry. The page you're looking for is missing."
+#~ msgstr "Ledsen! Sidan du letade efter finns inte."
+
+#~ msgid ""
+#~ "This post is password protected. Enter the password to view any comments."
+#~ msgstr ""
+#~ "Denna post är lösenordsskyddad. Ange lösenord för att se kommentarer."
+
+#~ msgid "One thought on &ldquo;%2$s&rdquo;"
+#~ msgstr "En tanke om &ldquo;%2$s&rdquo;"
+
+#~ msgid "Comment navigation"
+#~ msgstr "Kommentarsnavigering"
+
+#~ msgid "&larr; Older Comments"
+#~ msgstr "&larr; Äldre kommentarer"
+
+#~ msgid "Newer Comments &rarr;"
+#~ msgstr "Nyare kommentarer &rarr;"
+
+#~ msgid "Comments are closed."
+#~ msgstr "Kommentering är avstängd"
+
+#~ msgid "Viewing category: "
+#~ msgstr "Visar: "
+
+#~ msgid "Viewing tag: "
+#~ msgstr "Visar: "
+
+#~ msgid "Viewing term: "
+#~ msgstr "Visar: "
+
+#~ msgid "Reply"
+#~ msgstr "Svara"
+
+#~ msgid "1"
+#~ msgstr "1"
+
+#~ msgid "%"
+#~ msgstr "%"
+
+#~ msgid "Pages:"
+#~ msgstr "Sidor:"
+
+#~ msgid "<span class=\"%1$s\">Posted in</span> %2$s"
+#~ msgstr "<span class=\"%1$s\">Postad i</span> %2$s"
+
+#~ msgid "<span class=\"%1$s\">Tagged</span> %2$s"
+#~ msgstr "<span class=\"%1$s\">Taggad med</span> %2$s"
+
+#~ msgid "Leave a reply"
+#~ msgstr "Lämna kommentar"
+
+#~ msgid "<b>1</b> Reply"
+#~ msgstr "<b>1</b> svar"
+
+#~ msgid "<b>%</b> Replies"
+#~ msgstr "<b>%</b> svar"
+
+#~ msgid "Primary Menu"
+#~ msgstr "Huvudmeny"
+
+#~ msgid "Secondary Menu"
+#~ msgstr "Sekundärmeny"
+
+#~ msgid "Tertiary Menu"
+#~ msgstr "Tertiärmeny"
+
+#~ msgid "Footer Menu"
+#~ msgstr "Sidfotsmeny"
+
+#~ msgid "Front page"
+#~ msgstr "Framsida"
+
+#~ msgid "Footer"
+#~ msgstr "Sidfot"
+
+#~ msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr "Fortsätt läsa <span class=\"meta-nav\">&rarr;</span>"
+
+#~ msgid "Older posts"
+#~ msgstr "Tidigare"
+
+#~ msgid "Newer posts"
+#~ msgstr "Senare"
+
+#~ msgid "page"
+#~ msgstr "sida"
+
+#~ msgid ""
+#~ "<section class=\"entry-date\"><a href=\"%1$s\" title=\"%2$s\" rel="
+#~ "\"bookmark\"><time datetime=\"%3$s\" pubdate>%4$s</time></a></section>"
+#~ msgstr ""
+#~ "<section class=\"entry-date\"><a href=\"%1$s\" title=\"%2$s\" rel="
+#~ "\"bookmark\"><time datetime=\"%3$s\" pubdate>%4$s</time></a></section>"
+
+#~ msgid "Pingback:"
+#~ msgstr "Pingback:"
+
+#~ msgid "%1$s on %2$s <span class=\"says\">said:</span>"
+#~ msgstr "%1$s den %2$s <span class=\"says\">säger:</span>"
+
+#~ msgid "%1$s at %2$s"
+#~ msgstr "%1$s vid %2$s"
+
+#~ msgid "Your comment is awaiting moderation."
+#~ msgstr "Din kommentar väntar på modering"
+
+#~ msgid "Reply <span>&darr;</span>"
+#~ msgstr "Svara <span>&darr;</span>"
+
+#~ msgid "Tel:"
+#~ msgstr "Tel:"
+
+#~ msgid "Fax:"
+#~ msgstr "Fax:"
+
+#~ msgid "E-mail:"
+#~ msgstr "E-post:"
+
+#~ msgid "Website:"
+#~ msgstr "Webbsida:"
+
+#~ msgid "Download vCard"
+#~ msgstr "Ladda ner visitkort"
+
+#~ msgid "Mobile:"
+#~ msgstr "Mobil:"
+
+#~ msgid "Phone:"
+#~ msgstr "Telefon:"
+
+#~ msgid "Previous"
+#~ msgstr "Tidigare"
+
+#~ msgid "Next"
+#~ msgstr "Nästa"
+
+#~ msgid "Page %s"
+#~ msgstr "Sida %s"
+
+#~ msgid "Archives"
+#~ msgstr "Arkiv"
+
+#~ msgid "Meta"
+#~ msgstr "Meta"
+
+#~ msgid "Material"
+#~ msgstr "Material"
+
+#~ msgid "Size"
+#~ msgstr "Storlek"
+
+#~ msgid "Please contact Bozzanova AB if you need any help."
+#~ msgstr "Välkommen Kontakta gärna Bozzanova AB om du behöver någon hjälp."
+
+#~ msgid "Phone: 0521 - 186 20<br />E-mail: <a href=\"mailto:"
+#~ msgstr "Telefon: 0521 - 186 20<br />E-post: <a href=\"mailto:"
+
+#~ msgid "<a href=\""
+#~ msgstr "<a href=\""
+
+#~ msgid "Small 1 (4:3)"
+#~ msgstr "Small 1 (4:3)"
+
+#~ msgid "Small 2 (4:3)"
+#~ msgstr "Small 2 (4:3)"
+
+#~ msgid "Small 3 (4:3)"
+#~ msgstr "Small 3 (4:3)"
+
+#~ msgid "Medium 1 (16:10)"
+#~ msgstr "Medium 1 (16:10)"
+
+#~ msgid "Medium 2 (16:10)"
+#~ msgstr "Medium 2 (16:10)"
+
+#~ msgid "Medium 3 (16:10)"
+#~ msgstr "Medium 3 (16:10)"
+
+#~ msgid "Big 1 (16:9)"
+#~ msgstr "Big 1 (16:9)"
+
+#~ msgid "Big 2 (16:9)"
+#~ msgstr "Big 2 (16:9)"
+
+#~ msgid "Big 3 (16:9)"
+#~ msgstr "Big 3 (16:9)"
+
+#~ msgid "Large 1 (64:27)"
+#~ msgstr "Large 1 (64:27)"
+
+#~ msgid "Large 2 (64:27)"
+#~ msgstr "Large 2 (64:27)"
+
+#~ msgid "Large 3 (64:27)"
+#~ msgstr "Large 3 (64:27)"
+
+#~ msgid "Slider"
+#~ msgstr "Bildspel"
+
+#~ msgid "Small product"
+#~ msgstr "Liten produktbild"
+
+#~ msgid "Big product"
+#~ msgstr "Stor produktbild"
+
+#~ msgid "Welcome %1$s Please contact Bozzanova AB if you need any help."
+#~ msgstr ""
+#~ "Välkommen %1$s Kontakta gärna Bozzanova AB om du behöver någon hjälp."
+
+#~ msgid "Phone: %1$s | E-mail: %2$s | Website: %3$s"
+#~ msgstr "Telefon: %1$s | E-post: %2$s | Webbsida: %3$s"
+
+#~ msgid "Help and support"
+#~ msgstr "Hjälp och support"
+
+#~ msgid "Page details"
+#~ msgstr "Siddetaljer"
+
+#~ msgid "No image"
+#~ msgstr "Ingen bild"
+
+#~ msgid "Full image"
+#~ msgstr "Orginalstorlek"
+
+#~ msgid "Medium image left"
+#~ msgstr "Medium vänster"
+
+#~ msgid "Medium image right"
+#~ msgstr "Medium höger"
+
+#~ msgid "Small image left"
+#~ msgstr "Liten bild, Vänster"
+
+#~ msgid "Small image right"
+#~ msgstr "Liten bild, höger"
+
+#~ msgid "Use custom sidebar layout"
+#~ msgstr "Använd anpassad sidopanellayout"
+
+#~ msgid "Custom sidebar layout"
+#~ msgstr "Anpassad sidopanellayout"
+
+#~ msgid "no sidebar"
+#~ msgstr "Inden sidopanel"
+
+#~ msgid "sidebar left"
+#~ msgstr "Sidopanel till vänster"
+
+#~ msgid "sidebar right"
+#~ msgstr "Sidopanel till höger"
+
+#~ msgid "Widget area"
+#~ msgstr "Widgetsyta"
+
+#~ msgid "Widget area size"
+#~ msgstr "Storlek på widgetsyta"
+
+#~ msgid "Use custom page layout"
+#~ msgstr "Använd anpassad sidlayout"
+
+#~ msgid "Custom page layout"
+#~ msgstr "Anpassad sidlayout"
+
+#~ msgid "Advance Single Post Widget"
+#~ msgstr "Avancerad singelpost"
+
+#~ msgid "Display a single post (Advance)"
+#~ msgstr "Visa en singelpost (Avancerat)"
+
+#~ msgid "Widget settings"
+#~ msgstr "Widgetinställningar"
+
+#~ msgid "Widget Area Title"
+#~ msgstr "Widgettitel"
+
+#~ msgid "Title top"
+#~ msgstr "Titel överst"
+
+#~ msgid "Title bottom"
+#~ msgstr "Titel underst"
+
+#~ msgid "No title"
+#~ msgstr "Ingen titel"
+
+#~ msgid "Widget layout"
+#~ msgstr "Widgetutseende"
+
+#~ msgid "Default"
+#~ msgstr "Standard"
+
+#~ msgid "Light"
+#~ msgstr "Ljus"
+
+#~ msgid "Dark"
+#~ msgstr "Mörk"
+
+#~ msgid "Widget design"
+#~ msgstr "Widgetdesign"
+
+#~ msgid "Widget width"
+#~ msgstr "Widgetbredd"
+
+#~ msgid "Widget height"
+#~ msgstr "Widgethöjd"
+
+#~ msgid "Post selection"
+#~ msgstr "Postval"
+
+#~ msgid "Select post type"
+#~ msgstr "Välj posttyp"
+
+#~ msgid "All"
+#~ msgstr "Alla"
+
+#~ msgid "Select taxonomy"
+#~ msgstr "Välj taxonomy"
+
+#~ msgid "Select term"
+#~ msgstr "Välj term"
+
+#~ msgid "Select posts"
+#~ msgstr "Välj poster"
+
+#~ msgid "Display post title"
+#~ msgstr "Visa postrubrik"
+
+#~ msgid "Header 1"
+#~ msgstr "Rubrik 1"
+
+#~ msgid "Header 2"
+#~ msgstr "Rubrik 2"
+
+#~ msgid "Header 3"
+#~ msgstr "Rubrik 3"
+
+#~ msgid "Header 4"
+#~ msgstr "Rubrik 4"
+
+#~ msgid "Header 5"
+#~ msgstr "Rubrik 5"
+
+#~ msgid "Header 6"
+#~ msgstr "Rubrik 6"
+
+#~ msgid "Choose post title size"
+#~ msgstr "Välj storlek på postrubrik"
+
+#~ msgid "Display post date"
+#~ msgstr "Visa postdatum"
+
+#~ msgid "Display \"Read more\" link"
+#~ msgstr "Visa \"Läs mer\"-länk"
+
+#~ msgid "Use custom link"
+#~ msgstr "Använd speciallänk"
+
+#~ msgid "Display text type"
+#~ msgstr "Visa texttyp"
+
+#~ msgid "None"
+#~ msgstr "Ingen"
+
+#~ msgid "Content"
+#~ msgstr "Innehåll"
+
+#~ msgid "Enter Excerpt lenght"
+#~ msgstr "Välj längd på utdrag"
+
+#~ msgid "Image options"
+#~ msgstr "Bildalternativ"
+
+#~ msgid "Over title"
+#~ msgstr "Över postrubrik"
+
+#~ msgid "Under title"
+#~ msgstr "Under postrubrik"
+
+#~ msgid "Display featured image"
+#~ msgstr "Visa utvald bild"
+
+#~ msgid "No alignment"
+#~ msgstr "Ingen justering"
+
+#~ msgid "Align left"
+#~ msgstr "Vänsterjusterad"
+
+#~ msgid "Align middle"
+#~ msgstr "Centrerad"
+
+#~ msgid "Align right"
+#~ msgstr "Högerjusterad"
+
+#~ msgid "Choose image size?"
+#~ msgstr "Välj bildstorlek"
+
+#~ msgid "No matching posts found"
+#~ msgstr "Ingenting poster hittade"
+
+#~ msgid "Galleries"
+#~ msgstr "Gallerier"
+
+#~ msgid "Gallery"
+#~ msgstr "Galleri"
+
+#~ msgid "Add new"
+#~ msgstr "Lägg till"
+
+#~ msgid "All galleries"
+#~ msgstr "Alla gallerier"
+
+#~ msgid "Add new gallery"
+#~ msgstr "Lägg till nytt galleri"
+
+#~ msgid "Edit gallery"
+#~ msgstr "Redigera galleri"
+
+#~ msgid "New gallery"
+#~ msgstr "Nytt galleri"
+
+#~ msgid "View gallery"
+#~ msgstr "Visa galleri"
+
+#~ msgid "Search galleries"
+#~ msgstr "Sök gallerier"
+
+#~ msgid "No galleries was found"
+#~ msgstr "Inga poster hittades"
+
+#~ msgid "No galleries was found in trash"
+#~ msgstr "Inga gallerier hittades i papperskorgen"
+
+#~ msgid "Gallery parent"
+#~ msgstr "Föräldragalleri"
+
+#~ msgid "Category"
+#~ msgstr "Uppdrag"
+
+#~ msgid "Categories"
+#~ msgstr "Uppdrag"
+
+#~ msgid "Search categories"
+#~ msgstr "Sök kategorier"
+
+#~ msgid "Popular"
+#~ msgstr "Populära"
+
+#~ msgid "All categories"
+#~ msgstr "Alla kategorier"
+
+#~ msgid "Parent category:"
+#~ msgstr "Föräldrakategori:"
+
+#~ msgid "Edit category"
+#~ msgstr "Redigera kategori"
+
+#~ msgid "Add new category"
+#~ msgstr "Lägg till ny kategori"
+
+#~ msgid "New category name"
+#~ msgstr "Nytt kategorinamn"
+
+#~ msgid "Separate tags with commas"
+#~ msgstr "Separera med komma"
+
+#~ msgid "Add or remove tags"
+#~ msgstr "Lägg till eller ta bort taggar"
+
+#~ msgid "Choose from the most used tags"
+#~ msgstr "Välj från mest använda"
+
+#~ msgid "_category"
+#~ msgstr "kategori"
+
+#~ msgid "Tag"
+#~ msgstr "Tagg"
+
+#~ msgid "Tags"
+#~ msgstr "Taggar"
+
+#~ msgid "Search tags"
+#~ msgstr "Sök bland taggar"
+
+#~ msgid "All tags"
+#~ msgstr "Alla taggar"
+
+#~ msgid "Parent tag:"
+#~ msgstr "Föräldratagg:"
+
+#~ msgid "Edit tag"
+#~ msgstr "Redigera tagg"
+
+#~ msgid "Update tag"
+#~ msgstr "Uppdatera tagg"
+
+#~ msgid "Add new tag"
+#~ msgstr "Lägg till tagg"
+
+#~ msgid "New tag name"
+#~ msgstr "Nytt taggnamn"
+
+#~ msgid "_tag"
+#~ msgstr "tagg"
+
+#~ msgid "Portfolio"
+#~ msgstr "Portfolio"
+
+#~ msgid "All portfolios"
+#~ msgstr "Alla portfolios"
+
+#~ msgid "Add new portfolio item"
+#~ msgstr "Lägg till portfolioobjekt"
+
+#~ msgid "Edit portfolio item"
+#~ msgstr "Redigera portfolioobjekt"
+
+#~ msgid "New portfolio item"
+#~ msgstr "Nytt portfolioobjekt"
+
+#~ msgid "View portfolio item"
+#~ msgstr "Visa portfolioobjekt"
+
+#~ msgid "Search portfolio items"
+#~ msgstr "Sök bland portfolioobjekt"
+
+#~ msgid "No portfolios was found"
+#~ msgstr "Inga poster hittades"
+
+#~ msgid "No portfolios was found in trash"
+#~ msgstr "Inget portfolioobjekt hittades i papperskorgen"
+
+#~ msgid "Portfolio parent"
+#~ msgstr "föräldraportfolio"
+
+#~ msgid "Portfolios"
+#~ msgstr "Portfolio"
+
+#~ msgid "A post type for manage portfolio"
+#~ msgstr "En posttyp för att hantera portfolio"
+
+#~ msgid "Members"
+#~ msgstr "Medlemmar"
+
+#~ msgid "Member"
+#~ msgstr "Medlem"
+
+#~ msgid "member"
+#~ msgstr "medlem"
+
+#~ msgid "Skill"
+#~ msgstr "Tjänst"
+
+#~ msgid "Skills"
+#~ msgstr "Tjänster"
+
+#~ msgid "skill"
+#~ msgstr "tjanster"
+
+#~ msgid "Member details"
+#~ msgstr "Medlemsdetaljer"
+
+#~ msgid "Company"
+#~ msgstr "Företag"
+
+#~ msgid "Address"
+#~ msgstr "Adress"
+
+#~ msgid "Postal"
+#~ msgstr "Postnummer"
+
+#~ msgid "City"
+#~ msgstr "Stad"
+
+#~ msgid "Email"
+#~ msgstr "E-post"
+
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+#~ msgid "Cellphone"
+#~ msgstr "Mobiltelefon"
+
+#~ msgid "Website"
+#~ msgstr "Webbsida"
+
+#~ msgid "K words"
+#~ msgstr "K-ord"
+
+#~ msgid "K color"
+#~ msgstr "K-färg"
+
+#~ msgid "Contact information"
+#~ msgstr "Kontaktinformation"
+
+#~ msgid "Reference"
+#~ msgstr "Referens"
+
+#~ msgid "References"
+#~ msgstr "Referenser"
+
+#~ msgid "A post type for manage Reference"
+#~ msgstr "En posttype för att hantera referenser"
+
+#~ msgid "reference"
+#~ msgstr "referens"
+
+#~ msgid "Reference category"
+#~ msgstr "Referenskategori"
+
+#~ msgid "Reference categories"
+#~ msgstr "Referenskategorier"
+
+#~ msgid "reference_category"
+#~ msgstr "referenskategori"
+
+#~ msgid "references"
+#~ msgstr "referenser"
+
+#~ msgid "Reference tag"
+#~ msgstr "referenstagg"
+
+#~ msgid "Reference tags"
+#~ msgstr "Referenstaggar"
+
+#~ msgid "reference_tag"
+#~ msgstr "referenstagg"
+
+#~ msgid "Show All"
+#~ msgstr "Visa alla"
+
+#~ msgid "Reference details"
+#~ msgstr "Referensdetaljer"
+
+#~ msgid "Product"
+#~ msgstr "Produkt"
+
+#~ msgid "Products"
+#~ msgstr "Produkter"
+
+#~ msgid "A post type for manage Product"
+#~ msgstr "En posttype för att hantera produkter"
+
+#~ msgid "product"
+#~ msgstr "produkt"
+
+#~ msgid "Product category"
+#~ msgstr "Produktkategori"
+
+#~ msgid "product_category"
+#~ msgstr "produktkategori"
+
+#~ msgid "products"
+#~ msgstr "produkter"
+
+#~ msgid "Product tag"
+#~ msgstr "Produkttaggar"
+
+#~ msgid "Product details"
+#~ msgstr "Produktdetaljer"
+
+#~ msgid "Customer"
+#~ msgstr "Kund"
+
+#~ msgid "All customers"
+#~ msgstr "Alla kunder"
+
+#~ msgid "Add new customer"
+#~ msgstr "Lägg till"
+
+#~ msgid "Edit customer"
+#~ msgstr "Redigera"
+
+#~ msgid "New customer"
+#~ msgstr "Ny kund"
+
+#~ msgid "View customer"
+#~ msgstr "Visa"
+
+#~ msgid "Search customers"
+#~ msgstr "Sök"
+
+#~ msgid "No customers was found"
+#~ msgstr "Inga kunder hittades"
+
+#~ msgid "No customers was found in trash"
+#~ msgstr "Ingen kund i papperskorgen"
+
+#~ msgid "Customer parent"
+#~ msgstr "Kundförälder"
+
+#~ msgid "A post type for manage customers"
+#~ msgstr "En posttype för att hantera kunder"
+
+#~ msgid "customer"
+#~ msgstr "kund"
+
+#~ msgid "Use custom post options?"
+#~ msgstr "Använd anpassad sidlayout?"
+
+#~ msgid "Show preamble"
+#~ msgstr "Visa ingress"
+
+#~ msgid "Yes"
+#~ msgstr "Ja"
+
+#~ msgid "Image alignment"
+#~ msgstr "bildjustering"
+
+#~ msgid "Left"
+#~ msgstr "Vänster"
+
+#~ msgid "Center"
+#~ msgstr "Center"
+
+#~ msgid "Right"
+#~ msgstr "Höger"
+
+#~ msgid "Sliders"
+#~ msgstr "Bildspel"
+
+#~ msgid "A post type for manage Sliders"
+#~ msgstr "En posttype för att hantera bildspel"
+
+#~ msgid "slider"
+#~ msgstr "bildspel"
+
+#~ msgid "Slider Content"
+#~ msgstr "Bildspelsinnehåll"
+
+#~ msgid "Textblock settings"
+#~ msgstr "Textblocksinställning"
+
+#~ msgid "Horizontal alignment"
+#~ msgstr "Horisontal position"
+
+#~ msgid "Vertical alignment"
+#~ msgstr "Vertikal position"
+
+#~ msgid "Box size"
+#~ msgstr "Boxstorlek"
+
+#~ msgid "Show shadow"
+#~ msgstr "Visa skugga"
+
+#~ msgid "Text color"
+#~ msgstr "Textfärg"
+
+#~ msgid "background color"
+#~ msgstr "Bakgrundsfärg"
+
+#~ msgid "First name"
+#~ msgstr "Förnamn"
+
+#~ msgid "Last name"
+#~ msgstr "Efternamn"
+
+#~ msgid "Organisation"
+#~ msgstr "Organisation"
+
+#~ msgid "Street address"
+#~ msgstr "Gatuadress"
+
+#~ msgid "Postal code"
+#~ msgstr "Postnummer"
+
+#~ msgid "Country"
+#~ msgstr "Land"
+
+#~ msgid "Mobile"
+#~ msgstr "Mobil"
+
+#~ msgid "Fax"
+#~ msgstr "Fax"
+
+#~ msgid "E-mail"
+#~ msgstr "E-post"
+
+#~ msgid "Show in contact"
+#~ msgstr "Visa i kontakt"
+
+#~ msgid "Show vCard link"
+#~ msgstr "Visa vistkortslänk"
+
+#~ msgid "I want this to be my logo!"
+#~ msgstr "Jag vill att denna ska bli min logtyp"
+
+#~ msgid "Logotype"
+#~ msgstr "Logotyp"
+
+#~ msgid "Logo X-position"
+#~ msgstr "Logotyp X-position"
+
+#~ msgid "Logo Y-position"
+#~ msgstr "Logotyp Y-position"
+
+#~ msgid "Content background color"
+#~ msgstr "Bakgrundsfärg innehåll"
+
+#~ msgid "Footer background color"
+#~ msgstr "Bakgrundsfärg sidfot"
+
+#~ msgid "Custom settings"
+#~ msgstr "Specialinställningar"
+
+#~ msgid "Upload Logo"
+#~ msgstr "Ladda upp logotyp"
+
+#~ msgid "Upload an image for the banner."
+#~ msgstr "Ladda upp bild för banner"
+
+#~ msgid "Delete Logo"
+#~ msgstr "Radera logotyp"
+
+#~ msgid "Text"
+#~ msgstr "Text"
+
+#~ msgid "Arial"
+#~ msgstr "Arial"
+
+#~ msgid "Fonts"
+#~ msgstr "Typsnitt"
+
+#~ msgid "Default page layout"
+#~ msgstr "Standardutseende"
+
+#~ msgid "Blog page"
+#~ msgstr "Bloggsida"
+
+#~ msgid "Use custom post layout"
+#~ msgstr "Använd anpassad sidlayout"
+
+#~ msgid "Single"
+#~ msgstr "Sida/singel"
+
+#~ msgid "Archive"
+#~ msgstr "Arkiv"
+
+#~ msgid "Sidebars"
+#~ msgstr "Widgetytor"
+
+#~ msgid "Widget areas"
+#~ msgstr "Widgetsytor"
+
+#~ msgid "Layout"
+#~ msgstr "Utseende"
+
+#~ msgid "Custom"
+#~ msgstr "Special"
+
+#~ msgid "Socials"
+#~ msgstr "Sociala media"
+
+#~ msgid "Contact"
+#~ msgstr "Kontakt"
+
+#~ msgid "Novastyle"
+#~ msgstr "Novastyle"
+
+#~ msgid "Novastyle settings"
+#~ msgstr "Novastyleinställningar"
+
+#~ msgid "Add or delete widget areas"
+#~ msgstr "Hantera widgetsytor"
+
+#~ msgid "No widget area was found, you may add one below."
+#~ msgstr "Inga widgetsytor hittades, du kan lägga till en nedan."
+
+#~ msgid "Delete item"
+#~ msgstr "Radera"
+
+#~ msgid "Add widget area"
+#~ msgstr "Skapa ny widgetyta"
+
+#~ msgid "Set sidebar layout for post type"
+#~ msgstr "Sätt sidopanellayout för posttyp"
+
+#~ msgid "Facebook page URL"
+#~ msgstr "Länk till Facebooksida"
+
+#~ msgid "Twitter URL"
+#~ msgstr "Länk till Twitter"
+
+#~ msgid "Advance Post List Widget"
+#~ msgstr "Avancerad postlista"
+
+#~ msgid "Display varius posts in list format (Advance)"
+#~ msgstr "Visa diverse poster i ett listformat (Avancerat)"
+
+#~ msgid "Posts selection"
+#~ msgstr "Postval"
+
+#~ msgid "How many posts?"
+#~ msgstr "Hur många poster?"
+
+#~ msgid "Display only featured posts?"
+#~ msgstr "Visa endast utvalda poster?"
+
+#~ msgid "No order"
+#~ msgstr "Ingen ordning"
+
+#~ msgid "Id"
+#~ msgstr "Id"
+
+#~ msgid "Date"
+#~ msgstr "Datum"
+
+#~ msgid "Modified"
+#~ msgstr "Modifierad"
+
+#~ msgid "Parent"
+#~ msgstr "Förälder"
+
+#~ msgid "Random"
+#~ msgstr "Slumpvis"
+
+#~ msgid "Number of comments"
+#~ msgstr "Antal kommentarer"
+
+#~ msgid "Menu order"
+#~ msgstr "Menyordning"
+
+#~ msgid "Order posts by?"
+#~ msgstr "Ordna poster på?"
+
+#~ msgid "Ascending"
+#~ msgstr "Stigande"
+
+#~ msgid "Descending"
+#~ msgstr "Fallande"
+
+#~ msgid "Display posts?"
+#~ msgstr "Visa poster?"
+
+#~ msgid "Display options"
+#~ msgstr "Visningsalternativ"
+
+#~ msgid "Display \"Read more\" Link"
+#~ msgstr "Visa \"Läs mer\"-länk"
+
+#~ msgid "List effect"
+#~ msgstr "Listeffekt"
+
+#~ msgid "Vertical list"
+#~ msgstr "Vertikal lista"
+
+#~ msgid "Slider list"
+#~ msgstr "Bildspel"
+
+#~ msgid "Select effect"
+#~ msgstr "Välj effekt"
+
+#~ msgid "Archive link"
+#~ msgstr "Arkivlänk"
+
+#~ msgid "Special"
+#~ msgstr "Special"
+
+#~ msgid "Show archive link"
+#~ msgstr "Visa arkivlänk?"
+
+#~ msgid "Enter Archive link text"
+#~ msgstr "Arkivlänktext"
+
+#~ msgid "Enter special URL"
+#~ msgstr "Använd speciallänk"
+
+#~ msgid "Background"
+#~ msgstr "Bakgrund"
+
+#~ msgid "Bozzanova Facebook Widget"
+#~ msgstr "Bozzanova Facebook Widget"
+
+#~ msgid "Display Facebook like box"
+#~ msgstr "Visa Facebook Gilla-box"
+
+#~ msgid "Page URL"
+#~ msgstr "Sidlänk"
+
+#~ msgid "Box width"
+#~ msgstr "Boxbredd"
+
+#~ msgid "Box height"
+#~ msgstr "Boxhöjd"
+
+#~ msgid "Color scheme"
+#~ msgstr "Färschema"
+
+#~ msgid "Show faces"
+#~ msgstr "Visa ansikten"
+
+#~ msgid "Show stream"
+#~ msgstr "Visa tidslinje"
+
+#~ msgid "Show header"
+#~ msgstr "Visa rubrik"
+
+#~ msgid "Box border color"
+#~ msgstr "Ramfärg"
+
+#~ msgid "Choose Taxonomy"
+#~ msgstr "Välj taxonomi"
+
+#~ msgid "Choose Term"
+#~ msgstr "Välj term"
+
+#~ msgid "Tags: %s"
+#~ msgstr "Tjänster: %s"
+
+#~ msgid "People with this skill"
+#~ msgstr "Medarbetare med denna färdighet"
+
+#~ msgid "Project with this label"
+#~ msgstr "Uppdrag inom denna tjänst"
+
+#~ msgid "All our projects with this customer"
+#~ msgstr "Alla våra uppdrag med denna kund"
+
+#~ msgid "Expertise:"
+#~ msgstr "Färdigheter:"
+
+#~ msgid "Work force:"
+#~ msgstr "Arbetsgrupp"
+
+#~ msgid "Mission:"
+#~ msgstr "Uppdrag:"
+
+#~ msgid "Tags:"
+#~ msgstr "Tjänster:"
+
+#~ msgid "Customer archive:"
+#~ msgstr "Kundarkiv"
+
+#~ msgid "Assingment: "
+#~ msgstr "Uppdrag: "
+
+#~ msgid "Partner Icon"
+#~ msgstr "Partner Icon"
+
+#~ msgid "Partner Logo"
+#~ msgstr "Partner Logo"
+
+#~ msgid "Partner Offer"
+#~ msgstr "Partner Offer"
+
+#~ msgid "Portait 1 (15:10)"
+#~ msgstr "Portait 1 (15:10)"
+
+#~ msgid "Portait 2 (15:10)"
+#~ msgstr "Portait 2 (15:10)"
+
+#~ msgid "Small 3 (nocrop)"
+#~ msgstr "Small 3 (nocrop)"
+
+#~ msgid "Medium 3 (nocrop)"
+#~ msgstr "Medium 3 (nocrop)"
+
+#~ msgid "Big 3 (nocrop)"
+#~ msgstr "Big 3 (nocrop)"
+
+#~ msgid "Name"
+#~ msgstr "Namn"
+
+#~ msgid "Companies: "
+#~ msgstr "Företag:"
+
+#~ msgid "Mission: "
+#~ msgstr "Uppdrag:"
+
+#~ msgid "portfolio"
+#~ msgstr "portfolio"
+
+#~ msgid "portfolio_category"
+#~ msgstr "uppdrag"
+
+#~ msgid "portfolio details"
+#~ msgstr "Portfoliodetaljer"
+
+#~ msgid "Members involded in the project"
+#~ msgstr "Medarbetare invloverade i projektet"
+
+#~ msgid "Customer for this project"
+#~ msgstr "Kund till detta projekt"
+
+#~ msgid "Big image"
+#~ msgstr "Stor bild"
+
+#~ msgid "portfolio_tag"
+#~ msgstr "tjanst"
+
+#~ msgid ""
+#~ "<a href=\"http://www.bozzanova.se\" target=\"_blank\">Visit our website</"
+#~ "a>"
+#~ msgstr ""
+#~ "<a href=\"http://www.bozzanova.se\" target=\"_blank\">Besök vår "
+#~ "webbplats</a>"
+
+#, fuzzy
+#~ msgid "Add new member"
+#~ msgstr "Lägg till nyhet"
+
+#, fuzzy
+#~ msgid "Edit member"
+#~ msgstr "Redigera bildspel"
+
+#, fuzzy
+#~ msgid "Search members"
+#~ msgstr "Sök teaser"
+
+#~ msgid "Filter list"
+#~ msgstr "Filtrera lista"
+
+#~ msgid "Close map"
+#~ msgstr "Stäng karta"
+
+#~ msgid "Close"
+#~ msgstr "Stäng"
+
+#~ msgid "Produced by Bozzanova AB"
+#~ msgstr "Reklambyrå | Bozzanova AB"
+
+#, fuzzy
+#~ msgid "Map Menu"
+#~ msgstr "Meny"
+
+#~ msgid "Drag and drop widgets here!"
+#~ msgstr "Dra och släpp widgets här!"
+
+#~ msgid "Frontpage Widget Area 1"
+#~ msgstr "Widgetyta Startsida 1"
+
+#~ msgid "Footer Widget Area"
+#~ msgstr "Widgetyta Sidfot"
+
+#~ msgid "Second Featured Image"
+#~ msgstr "Utvald bild (sekundär)"
+
+#~ msgid "Views"
+#~ msgstr "Visa"
+
+#~ msgid "Grid"
+#~ msgstr "Rutnät"
+
+#~ msgid "List"
+#~ msgstr "Lista"
+
+#~ msgid "Show on map"
+#~ msgstr "Visa karta"
+
+#~ msgid "Image 1"
+#~ msgstr "Bild 1"
+
+#~ msgid "Image 2"
+#~ msgstr "Bild 2"
+
+#~ msgid "Image 3"
+#~ msgstr "Bild 3"
+
+#~ msgid "Image 4"
+#~ msgstr "Bild 4"
+
+#~ msgid "Image 5"
+#~ msgstr "Bild 5"
+
+#~ msgid "Image 6"
+#~ msgstr "Bild 6"
+
+#~ msgid "Image 7"
+#~ msgstr "Bild 7"
+
+#~ msgid "Image 8"
+#~ msgstr "Bild 8"
+
+#~ msgid "Image 9"
+#~ msgstr "Bild 9"
+
+#~ msgid "Image 10"
+#~ msgstr "Bild 10"
+
+#~ msgid "Image 11"
+#~ msgstr "Bild 11"
+
+#~ msgid "Image 12"
+#~ msgstr "Bild 12"
+
+#, fuzzy
+#~ msgid "Image 4 uncroped"
+#~ msgstr "Bild 4"
+
+#, fuzzy
+#~ msgid "Image 6 uncroped"
+#~ msgstr "Bild 6"
+
+#, fuzzy
+#~ msgid "Image 8 uncroped"
+#~ msgstr "Bild 8"
+
+#~ msgid "Links"
+#~ msgstr "Länkar"
+
+#~ msgid "Design"
+#~ msgstr "Design"
+
+#~ msgid "Location"
+#~ msgstr "Vår plats"
+
+#~ msgid "Theme Settings updated."
+#~ msgstr "Novastyleinställningar"
+
+#~ msgid "Support"
+#~ msgstr "Support"
+
+#~ msgid "Help & support"
+#~ msgstr "Hjälp och support"
+
+#~ msgid ""
+#~ "If you need any kind of help or support. Please contact Bozzanova AB."
+#~ msgstr "Om du behöver någon form av hjälp. Kontakta gärna Bozzanova AB."
+
+#~ msgid "Miscellaneous"
+#~ msgstr "Övrigt"
+
+#~ msgid "Coordinates"
+#~ msgstr "Koordinater"
+
+#~ msgid "Latitude"
+#~ msgstr "Latitud"
+
+#~ msgid "Longitude"
+#~ msgstr "Longitud"
+
+#~ msgid "More information"
+#~ msgstr "Mer information"
+
+#~ msgid "place"
+#~ msgstr "plats"
+
+#~ msgid "Layout Management"
+#~ msgstr "Hantering av Design"
+
+#~ msgid "Single post layout"
+#~ msgstr "Sidlayout"
+
+#~ msgid "Blog list layout"
+#~ msgstr "Listlayout"
+
+#~ msgid "Sidebars Management"
+#~ msgstr "Hantering av widgetytor"
+
+#~ msgid "Number of sidebars"
+#~ msgstr "Antal widgetytor"
+
+#~ msgid "Assign widget areas"
+#~ msgstr "Tilldela widgetyta"
+
+#~ msgid "Manage widget areas"
+#~ msgstr "Hantering av widgetytor"
+
+#~ msgid "Site Maintenance Management"
+#~ msgstr "Hantering av Underhåll"
+
+#~ msgid "Maintenance mode"
+#~ msgstr "Underhållsläge"
+
+#~ msgid "Novastyle Layout"
+#~ msgstr "Novastyle Design"
+
+#~ msgid "Novastyle Sidebas"
+#~ msgstr "Novastyle widgetytor"
+
+#~ msgid "Novastyle Maintenance"
+#~ msgstr "Novastyle Underhåll"
+
+#~ msgid "Maintenance"
+#~ msgstr "Underhåll"
+
+#~ msgid "One"
+#~ msgstr "En"
+
+#~ msgid "Two"
+#~ msgstr "Två"
+
+#~ msgid "Sidebar numbered 1"
+#~ msgstr "Sidopanel 1"
+
+#~ msgid "Sidebar numbered 2"
+#~ msgstr "Sidopanel 2"
+
+#~ msgid ""
+#~ "Adds a splash page to your website that lets visitors know your website "
+#~ "is down for maintenance. Logged in administrators get full access to the "
+#~ "website including the front-end."
+#~ msgstr "Lägger till en \"under konstruktion-sida\""
+
+#~ msgid "Enable?"
+#~ msgstr "Aktivera?"
+
+#~ msgid "Pick the page that will act as a maintenance page for your site."
+#~ msgstr "Välj den sida du vill skall visas som uppdatering-pågår-sida"
+
+#~ msgid "Choose a page"
+#~ msgstr "Välj en sida"
+
+#~ msgid "Could not find any pages, please %s"
+#~ msgstr "hittade inga sidor, vänligen %s"
+
+#~ msgid "create one"
+#~ msgstr "skapa en"
+
+#~ msgid "You are not authorised to perform this operation."
+#~ msgstr "Du har inte behörighet att utföra denna aktion."
+
+#~ msgid "Settings saved. %s."
+#~ msgstr "inställningarna sparades. %s."
+
+#~ msgid "Settings have been resetted to default values. %s."
+#~ msgstr "Inställningar har återställds till standardvärden. %s."
+
+#~ msgid "Information"
+#~ msgstr "Information"
+
+#~ msgid "Contact Bozzanova AB for support."
+#~ msgstr "Kontakta Bozzanova AB för support."
+
+#~ msgid "Save Changes"
+#~ msgstr "Spara ändringar"
+
+#~ msgid "Reset to defaults"
+#~ msgstr "Återställ"
+
+#~ msgid ""
+#~ "You are about to reset all theme settings to the default values. Are you "
+#~ "sure you want to proceed?"
+#~ msgstr ""
+#~ "Vill du verkligen återställa alla tema-inställningar till deras "
+#~ "standardinställningar?"
+
+#~ msgid ""
+#~ "This field activates the Button widget. Enter URL to booking site/page "
+#~ "for this place object. Leave empty if booking button not wanted."
+#~ msgstr ""
+#~ "Detta fält aktiverar Knappwidget. Fyll i URL:en till bokningssajt/-sida "
+#~ "för detta platsobjekt. Lämna tomt om bokningsknapp ej önskas. "
+
+#, fuzzy
+#~ msgid "Booking"
+#~ msgstr "Stor"
+
+#~ msgid "Map information"
+#~ msgstr "Kartinformation"
+
+#~ msgid "Enter or search for an address (Ex. Street, Town, Country)."
+#~ msgstr "Ange eller sök efter en adress (ex. gata, stad, land)."
+
+#~ msgid "After search you can drag the marker to an exact place/address."
+#~ msgstr "Efter sökning kan du dra markören till en exakt placering."
+
+#~ msgid "default"
+#~ msgstr "standard"
+
+#~ msgid "hotel"
+#~ msgstr "hotell"
+
+#~ msgid "Hotel"
+#~ msgstr "Hotell"
+
+#~ msgid "plats"
+#~ msgstr "plats"
+
+#~ msgid "Plats"
+#~ msgstr "Plats"
+
+#~ msgid "buss"
+#~ msgstr "buss"
+
+#~ msgid "Bus"
+#~ msgstr "Buss"
+
+#~ msgid "Train"
+#~ msgstr "Tåg"
+
+#~ msgid "flyg"
+#~ msgstr "flyg"
+
+#~ msgid "Airport"
+#~ msgstr "Flyg"
+
+#~ msgid "Icon"
+#~ msgstr "Ikon"
+
+#~ msgid "Choose an icon"
+#~ msgstr "Välj en ikon"
+
+#~ msgid "Additional information"
+#~ msgstr "Ytterligare information"
+
+#~ msgid "Enter name (optional)"
+#~ msgstr "Namn (valfri)"
+
+#~ msgid "Enter URL without http://"
+#~ msgstr "Ange webbadress utan http://"
+
+#~ msgid "Extra"
+#~ msgstr "Extra"
+
+#~ msgid "A field for miscellaneous information"
+#~ msgstr "Ett fält för diverse information"
+
+#~ msgid "Place"
+#~ msgstr "Plats"
+
+#~ msgid "Use a custom layout for this post in the blog list?"
+#~ msgstr "Använd en anpassad listvy?"
+
+#~ msgid "Single post layout in blog list"
+#~ msgstr "Listvy"
+
+#~ msgid "Do you want to use a custom sidebars layout for this post?"
+#~ msgstr "Använd anpassad sidopanel?"
+
+#~ msgid "No widget areas are defined. You can add them at the %s page."
+#~ msgstr "Inga widget områden definieras. Du kan lägga dem på %s sida."
+
+#~ msgid "Widget area 1"
+#~ msgstr "Widgetyta 1"
+
+#~ msgid "Set Sidebar col number"
+#~ msgstr "Sätt storlek på widgetyta"
+
+#~ msgid "Widget area 2"
+#~ msgstr "Widgetyta 2"
+
+#~ msgid "Facts"
+#~ msgstr "Fakta"
+
+#~ msgid "Field header"
+#~ msgstr "Fältrubrik"
+
+#~ msgid "Field titel"
+#~ msgstr "Fälttitel"
+
+#~ msgid "Field value"
+#~ msgstr "Fältvärde"
+
+#~ msgid "Remove field"
+#~ msgstr "Tabort fält"
+
+#~ msgid "Add field"
+#~ msgstr "Lägg till fält"
+
+#~ msgid "Suppliers"
+#~ msgstr "Leverantörer"
+
+#~ msgid "Titel"
+#~ msgstr "Titel"
+
+#~ msgid "Web & Logo"
+#~ msgstr "Webbsida och logotyp"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Image"
+#~ msgstr "Bild"
+
+#~ msgid "Insert"
+#~ msgstr "Infoga"
+
+#~ msgid "Show logotype?"
+#~ msgstr "Visa logotyp"
+
+#~ msgid "Remove"
+#~ msgstr "Tabort"
+
+#~ msgid "Add supplier"
+#~ msgstr "Lägg till leverantör"
+
+#~ msgid "Technicals"
+#~ msgstr "Tekniskt"
+
+#~ msgid "Info blocks"
+#~ msgstr "Inforutor"
+
+#~ msgid "Info block"
+#~ msgstr "Inforuta"
+
+#~ msgid "Add info block"
+#~ msgstr "Lägg till inforuta"
+
+#~ msgid "Edit info block"
+#~ msgstr "Redigera inforuta"
+
+#~ msgid "View info block"
+#~ msgstr "Visa inforuta"
+
+#~ msgid "Search among info blocks"
+#~ msgstr "Sök bland inforutor"
+
+#~ msgid "No info blocks matched your search query"
+#~ msgstr "Ingen inforuta matchade din sökning"
+
+#~ msgid "No info blocks in the trash matched your search query"
+#~ msgstr "Inga inforutor i papperskorgen matchade din sökning"
+
+#~ msgid "info"
+#~ msgstr "info"
+
+#~ msgid "News"
+#~ msgstr "Nyheter"
+
+#~ msgid "Edit news"
+#~ msgstr "Redigera nyhet"
+
+#~ msgid "View news"
+#~ msgstr "Visa nyhet"
+
+#~ msgid "Search among news"
+#~ msgstr "Sök nyheter"
+
+#~ msgid "No news matched your search query"
+#~ msgstr "Ingen nyhet matchade din sökning"
+
+#~ msgid "No news in the trash matched your search query"
+#~ msgstr "Ingen nyhet i papperskorgen matchade din sökning"
+
+#~ msgid "Posts for courses."
+#~ msgstr "Kurspost"
+
+#~ msgid "news"
+#~ msgstr "nyhet"
+
+#~ msgid "Places"
+#~ msgstr "Platser"
+
+#~ msgid "Add Place"
+#~ msgstr "Lägg till en plats"
+
+#~ msgid "Edit Place"
+#~ msgstr "Redigera plats"
+
+#~ msgid "View Place"
+#~ msgstr "Visa plats"
+
+#~ msgid "Search among Places"
+#~ msgstr "Sök bland platser"
+
+#~ msgid "No Place matched your search query"
+#~ msgstr "Ingen plats matchade din sökning"
+
+#~ msgid "No Place in the trash matched your search query"
+#~ msgstr "Ingen plats i papperskorgen matchade din sökning"
+
+#~ msgid "Parent Place Category"
+#~ msgstr "Platskategoriförälder"
+
+#~ msgid "Parent Place Category:"
+#~ msgstr "Platskategoriförälder:"
+
+#~ msgid "Edit Place Category"
+#~ msgstr "Redigera platskategori"
+
+#~ msgid "Update Place Category"
+#~ msgstr "Uppdatera platskategori"
+
+#~ msgid "Add New Place Category"
+#~ msgstr "Lägg till ny platskategori"
+
+#~ msgid "New Place Category Name"
+#~ msgstr "Nytt platskategorinamn"
+
+#, fuzzy
+#~ msgid "Uncategorized"
+#~ msgstr "Platskategorier"
+
+#~ msgid "Add slider"
+#~ msgstr "Lägg till bildspel"
+
+#~ msgid "Search among sliders"
+#~ msgstr "Sök bland bildspel"
+
+#~ msgid "No slider matched your search query"
+#~ msgstr "Ingen bildspelspost matchade din sökning"
+
+#~ msgid "No slider in the trash matched your search query"
+#~ msgstr "Ingen bildspelpost i papperskorgen matchade din sökning"
+
+#~ msgid "Posts for sliders."
+#~ msgstr "Poster för bildspel."
+
+#~ msgid ""
+#~ "You can customize the look of your site without touching any of your "
+#~ "theme&#8217;s code by using a custom background. Your background can be "
+#~ "an image or a color."
+#~ msgstr ""
+#~ "Du kan skräddarsy utseendet på din webbsida utan att behöva koda genom "
+#~ "att använda specialbakgrund. Din bakgrund kan vara en färg eller en bild."
+
+#, fuzzy
+#~ msgid "Remove Image"
+#~ msgstr "Tabort fält"
+
+#, fuzzy
+#~ msgid "Display Options"
+#~ msgstr "Visningsalternativ"
+
+#~ msgid "No Repeat"
+#~ msgstr "Ingen repetering"
+
+#, fuzzy
+#~ msgid "Tile"
+#~ msgstr "Titel"
+
+#, fuzzy
+#~ msgid "Tile Horizontally"
+#~ msgstr "Horisontal lista"
+
+#, fuzzy
+#~ msgid "Tile Vertically"
+#~ msgstr "Vertikal lista"
+
+#, fuzzy
+#~ msgid "Attachment"
+#~ msgstr "Tillägg"
+
+#, fuzzy
+#~ msgid "Background Attachment"
+#~ msgstr "Tillägg"
+
+#~ msgid "Scroll"
+#~ msgstr "Skrolla"
+
+#~ msgid "Fixed"
+#~ msgstr "Fixerad"
+
+#, fuzzy
+#~ msgid "Select a Color"
+#~ msgstr "Välj ett alternativ"
+
+#, fuzzy
+#~ msgid "Clear"
+#~ msgstr "Stäng"
+
+#~ msgid "Footer HTML Area"
+#~ msgstr "Sidfot"
+
+#~ msgid "Header HTML Area"
+#~ msgstr "Sidhuvud"
+
+#~ msgid "Choose the blog list layout (single posts can override this)"
+#~ msgstr ""
+#~ "Visa denna listlayout (specialdesign på inlägg kan åsidosätta detta)"
+
+#~ msgid "Our location"
+#~ msgstr "Vår plats"
+
+#~ msgid "Single post layout settings"
+#~ msgstr "Sidlayout"
+
+#~ msgid ""
+#~ "Choose the standard single post layout (single posts can override this)"
+#~ msgstr "Välj standardvisning för enstaka poster"
+
+#~ msgid "Standard sidebar settings"
+#~ msgstr "Sidopaneler"
+
+#~ msgid "How many sidebars should be standard on the website?"
+#~ msgstr "Hur många sidopaneler vill du använda på hemsidan?"
+
+#~ msgid "Choose the standard widget areas for the sidebar layout"
+#~ msgstr "Välj standard widget yta för sidopaneler"
+
+#~ msgid "Read more..."
+#~ msgstr "Läs mer..."
+
+#~ msgid "Loading slider..."
+#~ msgstr "Laddar bildspel..."
+
+#~ msgid "Widget Area Class"
+#~ msgstr "Widgetklass"
+
+#~ msgid "Ticker list"
+#~ msgstr "Rullande lista"
+
+#~ msgid "Top"
+#~ msgstr "Topp"
+
+#~ msgid "Bottom"
+#~ msgstr "Botten"
+
+#~ msgid "Big Place Map Widget"
+#~ msgstr "Stor platskarta"
+
+#~ msgid "Display a Big Google Map"
+#~ msgstr "Visa en stor Googlekarta"
+
+#~ msgid "Toggle"
+#~ msgstr "Bläddra"
+
+#~ msgid "Find us"
+#~ msgstr "Hitta till oss"
+
+#~ msgid "This widget outputs a Google Map from the place metabox"
+#~ msgstr "Denna widget visar en Googlekarta från Platser"
+
+#~ msgid "Content area"
+#~ msgstr "Innehållsyta"
+
+#~ msgid "Content Title"
+#~ msgstr "Innehållsrubrik"
+
+#~ msgid "Content post"
+#~ msgstr "Innehållspost"
+
+#~ msgid "Map area"
+#~ msgstr "Kartyta"
+
+#, fuzzy
+#~ msgid "Map Title"
+#~ msgstr "Titel"
+
+#~ msgid "Bozzanova Google Maps Widget"
+#~ msgstr "Google Map Widget"
+
+#~ msgid "Displays a Google map"
+#~ msgstr "Visar en karta"
+
+#~ msgid "Title:"
+#~ msgstr "Rubrik:"
+
+#~ msgid "Map height:"
+#~ msgstr "Karthöjd:"
+
+#~ msgid "Map type:"
+#~ msgstr "Karttyp:"
+
+#~ msgid "Simple Map"
+#~ msgstr "Enkel karta"
+
+#~ msgid "Satelite"
+#~ msgstr "Satelitbild"
+
+#~ msgid "Satelite with info"
+#~ msgstr "Satelitbild med info"
+
+#~ msgid "Terrain"
+#~ msgstr "Terräng"
+
+#~ msgid "Map zoom:"
+#~ msgstr "Kartzoom"
+
+#~ msgid "Object name:"
+#~ msgstr "Objektnamn:"
+
+#~ msgid "Object address:"
+#~ msgstr "Objektadress"
+
+#~ msgid "Show object info:"
+#~ msgstr "Visa objektinfo"
+
+#~ msgid "No"
+#~ msgstr "Nej"
+
+#, fuzzy
+#~ msgid "Booking Widget"
+#~ msgstr "Videowidget"
+
+#~ msgid "To booking"
+#~ msgstr "Till bokning"
+
+#~ msgid "Button text"
+#~ msgstr "Knapptext"
+
+#~ msgid "Place Map Widget"
+#~ msgstr "Platskarta"
+
+#~ msgid "Display a Google Map"
+#~ msgstr "Visa en Googlekarta"
+
+#~ msgid "Internet"
+#~ msgstr "Internet"
+
+#~ msgid "Our website"
+#~ msgstr "Vår webbsida"
+
+#~ msgid "E-mail us"
+#~ msgstr "E-posta oss"
+
+#~ msgid ""
+#~ "This widget outputs a Google Map from the place metabox or a static "
+#~ "address."
+#~ msgstr ""
+#~ "Denna widget visar en Googlekarta från Platser eller från en statisk "
+#~ "adress."
+
+#~ msgid "General map settings"
+#~ msgstr "Generella kartinställningar"
+
+#~ msgid "Choose map type"
+#~ msgstr "Välj karttyp"
+
+#~ msgid "Dynamic"
+#~ msgstr "Dynamisk"
+
+#~ msgid "Static"
+#~ msgstr "Statisk"
+
+#~ msgid "Map"
+#~ msgstr "Karta"
+
+#~ msgid "Map width"
+#~ msgstr "Kartbredd"
+
+#~ msgid "Static map settings"
+#~ msgstr "Statisk kartinställning"
+
+#~ msgid "Adress"
+#~ msgstr "Adress"
+
+#~ msgid "Choose map link"
+#~ msgstr "Välj kartlänk"
+
+#~ msgid "Dynamic map settings"
+#~ msgstr "Dynamiska kartinställningar"
+
+#~ msgid "Static image"
+#~ msgstr "Statisk bild"
+
+#~ msgid "Dynamic map"
+#~ msgstr "Dynamisk karta"
+
+#~ msgid "Place info"
+#~ msgstr "Platsinformation"
+
+#~ msgid "Display place info"
+#~ msgstr "Visa platsinformation"
+
+#~ msgid "Supplier Widget"
+#~ msgstr "Leverantörswidget"
+
+#~ msgid "Display suppliers logotypes"
+#~ msgstr "Visar leverantörslogotyper"
+
+#~ msgid ""
+#~ "Displays a Video. Supports Youtube and Vimeo URL:s. Just copy and paste "
+#~ "the video's shortlink or URL."
+#~ msgstr ""
+#~ "Visar en video. Stödjer Youtube- och Vimeolänkar. Kopiera och klistra in "
+#~ "kortlänk eller vanlig länk."
+
+#, fuzzy
+#~ msgid "Supports: Youtube, Vimeo"
+#~ msgstr "Fungernade: Youtube, Vimeo"
+
+#~ msgid "Paste shortlink or URL to the video"
+#~ msgstr "Klistra in en kort-länk eller länk till videon"
+
+#~ msgid "4:3 (normal)"
+#~ msgstr "4:3 (normal)"
+
+#~ msgid "16:9 (widescreen)"
+#~ msgstr "16:9 (widescreen)"
+
+#~ msgid "16:10 (widescreen)"
+#~ msgstr "16:10 (widescreen)"
+
+#~ msgid "Simple list"
+#~ msgstr "Enkel lista"
+
+#~ msgid "Half"
+#~ msgstr "Halv"
+
+#~ msgid "Set width"
+#~ msgstr "Sätt bredd"
+
+#~ msgid "Set height"
+#~ msgstr "Sätt höjd"
+
+#~ msgid "Display a Video"
+#~ msgstr "Visa en video"
+
+#~ msgid "img-1"
+#~ msgstr "img-1"
+
+#~ msgid "img-2"
+#~ msgstr "img-2"
+
+#~ msgid "img-3"
+#~ msgstr "img-3"
+
+#~ msgid "img-4"
+#~ msgstr "img-4"
+
+#~ msgid "img-5"
+#~ msgstr "img-5"
+
+#~ msgid "img-6"
+#~ msgstr "img-6"
+
+#~ msgid "img-7"
+#~ msgstr "img-7"
+
+#~ msgid "img-8"
+#~ msgstr "img-8"
+
+#~ msgid "img-9"
+#~ msgstr "img-9"
+
+#~ msgid "img-10"
+#~ msgstr "img-10"
+
+#~ msgid "img-11"
+#~ msgstr "img-11"
+
+#~ msgid "List Ticker"
+#~ msgstr "Rullande lista"
+
+#~ msgid "NivoSlider"
+#~ msgstr "NivoSlider"
+
+#~ msgid "Copyright %1$s %2$s. All Rights Reserved."
+#~ msgstr "Copyright %1$s %2$s. Alla rättigheter reserverade."
+
+#, fuzzy
+#~ msgid "Text Inputs"
+#~ msgstr "Indata"
+
+#, fuzzy
+#~ msgid "Select"
+#~ msgstr "Välj term"
+
+#, fuzzy
+#~ msgid "Select Form Fields"
+#~ msgstr "Välj term"
+
+#, fuzzy
+#~ msgid "URL Input"
+#~ msgstr "Indata"
+
+#, fuzzy
+#~ msgid "Email Input"
+#~ msgstr "E-post"
+
+#, fuzzy
+#~ msgid "Select (type one)"
+#~ msgstr "Välj typ"
+
+#, fuzzy
+#~ msgid "Select (type two)"
+#~ msgstr "Välj typ"
+
+#, fuzzy
+#~ msgid "Option 2"
+#~ msgstr "Alternativ"
+
+#, fuzzy
+#~ msgid "Option 3"
+#~ msgstr "Alternativ"
+
+#, fuzzy
+#~ msgid "Option 4"
+#~ msgstr "Alternativ"
+
+#, fuzzy
+#~ msgid "Some Description"
+#~ msgstr "Visa bildtext?"
+
+#, fuzzy
+#~ msgid "Wptuts Settings"
+#~ msgstr "Temainstälningar"
+
+#~ msgid "Employee"
+#~ msgstr "Personal"
+
+#~ msgid "Delete employee"
+#~ msgstr "Tabort anställd"
+
+#~ msgid "Add employee"
+#~ msgstr "Lägg till"
+
+#, fuzzy
+#~ msgid "Default color: %s"
+#~ msgstr "Sökresultat för: %s"
+
+#, fuzzy
+#~ msgid "Widgetareas and Sidebars"
+#~ msgstr "Widgetsytor"
+
+#, fuzzy
+#~ msgid "Content on right"
+#~ msgstr "Inforuta:"
+
+#, fuzzy
+#~ msgid "%s Theme Options"
+#~ msgstr "Bildalternativ"
+
+#~ msgid ""
+#~ "Enter what you want to be shown in the footer, HTML is allowed. E.g: "
+#~ "\"<em>Nova Style © Bozzanova AB</em>\"."
+#~ msgstr "Fyll i önskad text som skall visas i sidfoten på hemsidan"
+
+#~ msgid ""
+#~ "Enter what you want to be shown in the header, HTML is allowed. E.g: "
+#~ "\"<em>Lorem ipsum dolor sit..</em>\""
+#~ msgstr "Fyll i önskad text som skall visas i sidhuvudet på hemsidan"
+
+#~ msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+#~ msgstr "<span class=\"meta-nav\">&larr;</span> Tidigare"
+
+#~ msgid "January"
+#~ msgstr "Januari"
+
+#~ msgid "February"
+#~ msgstr "Februari"
+
+#~ msgid "March"
+#~ msgstr "Mars"
+
+#~ msgid "April"
+#~ msgstr "April"
+
+#~ msgid "June"
+#~ msgstr "Juni"
+
+#~ msgid "July"
+#~ msgstr "Juli"
+
+#~ msgid "August"
+#~ msgstr "Augusti"
+
+#~ msgid "September"
+#~ msgstr "September"
+
+#~ msgid "October"
+#~ msgstr "Oktober"
+
+#~ msgid "December"
+#~ msgstr "December"
+
+#~ msgid "Week %s"
+#~ msgstr "Vecka %1$s"
+
+#~ msgid "Select employee"
+#~ msgstr "Välj anställd"
+
+#~ msgid "Database updated"
+#~ msgstr "Databas uppdaterad"
+
+#~ msgid "Update"
+#~ msgstr "Uppdatera"
+
+#~ msgid "sdfsdfsd"
+#~ msgstr "Utseende"
+
+#~ msgid "Wash up schedule"
+#~ msgstr "Diskschema"
+
+#~ msgid "Weeks"
+#~ msgstr "Veckor"
+
+#~ msgid "Employees"
+#~ msgstr "Personal"
+
+#~ msgid "Not Found"
+#~ msgstr "Hittades inte"
+
+#~ msgid "Apologies, but the page you requested could not be found."
+#~ msgstr "Tyvärr, men sidan du begärde inte kunde hittas."
+
+#~ msgid "It seems like no blog entries have been written yet."
+#~ msgstr "Det verkar som det inte finns några inlägg ännu."
+
+#~ msgid "Machines"
+#~ msgstr "Maskiner"
+
+#~ msgid "One Response to %2$s"
+#~ msgstr "Ett svar på %2$s"
+
+#~ msgid "Web development: Bozzanova Advertising Agency"
+#~ msgstr "Webbutveckling: Bozzanova AB"
+
+#~ msgid "Full"
+#~ msgstr "Full"
+
+#~ msgid "Medium"
+#~ msgstr "Medium"
+
+#~ msgid "Third"
+#~ msgstr "Tredjedel"
+
+#~ msgid "Quarter"
+#~ msgstr "Kvart"
+
+#~ msgid "Fifth"
+#~ msgstr "Femtedel"
+
+#~ msgid "Mini"
+#~ msgstr "Mini"
+
+#~ msgid "Standard"
+#~ msgstr "Standard"
+
+#~ msgid "No feed available, please visit our %s"
+#~ msgstr "Ingen feed är tillgänglig, var god besök våran %s"
+
+#~ msgid "(%d&nbsp;&times;&nbsp;%d)"
+#~ msgstr "(%d&nbsp;&times;&nbsp;%d)"
+
+#~ msgid "Nothing Found"
+#~ msgstr "Ingenting hittat"
+
+#~ msgid ""
+#~ "Sorry, but nothing matched your search criteria. Please try again with "
+#~ "some different keywords."
+#~ msgstr ""
+#~ "Ledsen, men inget matchade din sökning. Var god försök igen med andra "
+#~ "sökord."
+
+#~ msgid "Manufacturer"
+#~ msgstr "Tillverkare"
+
+#~ msgid "Type"
+#~ msgstr "Typ"
+
+#~ msgid "Registration year"
+#~ msgstr "Registreringsår"
+
+#~ msgid "Serial number"
+#~ msgstr "Serienummer"
+
+#~ msgid "Engine"
+#~ msgstr "Motor"
+
+#~ msgid "Power"
+#~ msgstr "Motoreffekt"
+
+#~ msgid "Hours"
+#~ msgstr "Drifttid"
+
+#~ msgid "Lifting capacity"
+#~ msgstr "Lyftkapacitet"
+
+#~ msgid "For tires"
+#~ msgstr "Framdäck"
+
+#~ msgid "Rear tires"
+#~ msgstr "Bakdäck"
+
+#~ msgid "Price without driver"
+#~ msgstr "Pris utan förare"
+
+#~ msgid "Price with driver"
+#~ msgstr "Pris med förare"
+
+#~ msgid "Sale price"
+#~ msgstr "Försäljningspris"
+
+#~ msgid "Financing"
+#~ msgstr "Finansiering"
+
+#~ msgid "Machine information"
+#~ msgstr "Maskininformation"
+
+#~ msgid "Rental information"
+#~ msgstr "Uthyrningsinformation"
+
+#~ msgid "Sales information"
+#~ msgstr "Försäljningsinformation"
+
+#~ msgid "Posted:  %1$s at %2$s"
+#~ msgstr "Postad: %1$s vid %2$s"
+
+#~ msgid "Author:  %1$s"
+#~ msgstr "Författare:  %1$s"
+
+#~ msgid "Use a custom list?"
+#~ msgstr "Använd speciallista?"
+
+#~ msgid "Display header link"
+#~ msgstr "Visa rubriklänk"
+
+#~ msgid "Display excerpt"
+#~ msgstr "Visa utdrag"
+
+#~ msgid "Display date"
+#~ msgstr "Visa datum"
+
+#~ msgid "Display post meta"
+#~ msgstr "Visa postmeta"
+
+#~ msgid "Layout 2"
+#~ msgstr "Stil 2"
+
+#~ msgid "Layout 3"
+#~ msgstr "Stil 3"
+
+#~ msgid "Should this post be featured?"
+#~ msgstr "Skall denna post vara utvald?"
+
+#~ msgid "Featured post"
+#~ msgstr "Utvald post"
+
+#~ msgid "Choose color for text overlay"
+#~ msgstr "Välj textfärg"
+
+#~ msgid "Choose color for overlay"
+#~ msgstr "Välj bakgrundsfärg"
+
+#~ msgid "Choose overlay opacity"
+#~ msgstr "Välj opacitet på bakgrundsfärg"
+
+#~ msgid "Engine information"
+#~ msgstr "Motorinformation"
+
+#~ msgid "Operating information"
+#~ msgstr "Opereringsinformation"
+
+#~ msgid "Machine rental information"
+#~ msgstr "Maskinuthyrningsinformation"
+
+#~ msgid "Sale Price"
+#~ msgstr "Försäljningspris"
+
+#~ msgid "machine"
+#~ msgstr "maskin"
+
+#~ msgid "Machine category"
+#~ msgstr "Maskinkategori"
+
+#~ msgid "Search Machine category"
+#~ msgstr "Sök maskinkategori"
+
+#~ msgid "All Machine category"
+#~ msgstr "Alla maskinkategorier"
+
+#~ msgid "Parent Machine category"
+#~ msgstr "Maskinkategoriförälder"
+
+#~ msgid "Parent Machine category:"
+#~ msgstr "Maskinkategoriförälder:"
+
+#~ msgid "Edit Machine category"
+#~ msgstr "Redigera maskinkategori"
+
+#~ msgid "Update Machine category"
+#~ msgstr "Uppdatera maskinkategori"
+
+#~ msgid "Add New Machine category"
+#~ msgstr "Lägg till ny maskinkategori"
+
+#~ msgid "New Machine category Name"
+#~ msgstr "Nytt maskinkategorinamn"
+
+#~ msgid "Latest Network Post"
+#~ msgstr "Senaste nätverksposter"
+
+#~ msgid "Display the lastest post (types) in a WP Network"
+#~ msgstr "Visa de senaste posterna i ett WP-nätverk"
+
+#~ msgid "Latest network posts"
+#~ msgstr "Senaste nätverksposterna"
+
+#~ msgid "Secondary Content Widget"
+#~ msgstr "Sekundärt innehåll"
+
+#~ msgid "Displays a secondary content"
+#~ msgstr "Visar ett sekundärt innehåll"
+
+#~ msgid "Use this widget to display custom info blocks"
+#~ msgstr "Använd denna widget för att visa en inforuta i ett widgetfält. "
+
+#~ msgid "Bozzanova Custom Info Blocks"
+#~ msgstr "Inforuta"
+
+#~ msgid "Display all attachments to the post"
+#~ msgstr "Använd denna widget för att visa utvalda bilder i ett widgetfält. "
+
+#~ msgid "Display attachments"
+#~ msgstr "Visa tillägg"
+
+#~ msgid "Extended menu widget"
+#~ msgstr "Utökad meny"
+
+#~ msgid "Bozzanova Menu"
+#~ msgstr "Meny"
+
+#~ msgid "No menus have been created yet."
+#~ msgstr "Ingen meny har skapats ännu."
+
+#~ msgid "Create one!"
+#~ msgstr "Skapa en!"
+
+#~ msgid "Select menu"
+#~ msgstr "Välj meny"
+
+#~ msgid "Container (e.g. div)"
+#~ msgstr "Container (t.ex. div)"
+
+#~ msgid "Menu id"
+#~ msgstr "Meny id"
+
+#~ msgid "Menu class"
+#~ msgstr "Meny klass"
+
+#~ msgid "Depth"
+#~ msgstr "Djup"
+
+#~ msgid "Secondary Navigation"
+#~ msgstr "Sekondärnavigering"
+
+#~ msgid "Map Navigation"
+#~ msgstr "Kartnavigering"
+
+#~ msgid "Home"
+#~ msgstr "Hem"
+
+#~ msgid "Archive by category \""
+#~ msgstr "Arkivkategori \""
+
+#~ msgid "Search results for \""
+#~ msgstr "Sökresultat för \""
+
+#~ msgid "Posts tagged \""
+#~ msgstr "Posttagg \""
+
+#~ msgid "Articles posted by "
+#~ msgstr "Artikel postad av"
+
+#~ msgid "Publish date"
+#~ msgstr "Publiceringsdatum"
+
+#~ msgid "Start date"
+#~ msgstr "Startdatum"
+
+#~ msgid "(Format: YYYY-MM-DD)"
+#~ msgstr "(Format: ÅÅÅÅ-MM-DD)"
+
+#~ msgid "End date"
+#~ msgstr "Stoppdatum"
+
+#~ msgid "Course leader"
+#~ msgstr "Kursledare"
+
+#~ msgid "Course times"
+#~ msgstr "Kurstider"
+
+#~ msgid "Notification date"
+#~ msgstr "Sista anmälningsdag"
+
+#~ msgid "Taxonomy"
+#~ msgstr "Taxonomy"
+
+#~ msgid "Term"
+#~ msgstr "Term"
+
+#~ msgid "Display a list?"
+#~ msgstr "Visa en lista?"
+
+#~ msgid "Offic phone"
+#~ msgstr "Telefon"
+
+#~ msgid "Campaign"
+#~ msgstr "Kampanj"
+
+#~ msgid "Search among Campaigns"
+#~ msgstr "Sök bland kampanjer"
+
+#~ msgid "Courses"
+#~ msgstr "Kurser"
+
+#~ msgid "Course"
+#~ msgstr "Kurs"
+
+#~ msgid "Search among courses"
+#~ msgstr "Sök bland kurser"
+
+#~ msgid "Current events"
+#~ msgstr "Aktuellt"
+
+#~ msgid "Current event"
+#~ msgstr "Aktuell händelse"
+
+#~ msgid "Search among current events"
+#~ msgstr "Sök bland aktuella händelser"
+
+#~ msgid "Exhibitions"
+#~ msgstr "Utställningar"
+
+#~ msgid "Exhibition"
+#~ msgstr "Utställning"
+
+#~ msgid "Search among exhibitions"
+#~ msgstr "Sök bland utställningar"
+
+#~ msgid "Frequently Asked Questions"
+#~ msgstr "Vanligt ställda frågor"
+
+#, fuzzy
+#~ msgid "Edit Map Tag"
+#~ msgstr "Redigera denna sidan."
+
+#~ msgid "Sortiment"
+#~ msgstr "Sortiment"
+
+#~ msgid "Search among products"
+#~ msgstr "Sök bland produkter"
+
+#~ msgid "Produkter"
+#~ msgstr "Produkter"
+
+#~ msgid "Produkt"
+#~ msgstr "Produkt"
+
+#~ msgid "Produkttyp"
+#~ msgstr "Produkttyp"
+
+#~ msgid "Search Produkttyper"
+#~ msgstr "Sök Produkttyper"
+
+#~ msgid "All Produkttyper"
+#~ msgstr "Alla Produkttyper"
+
+#~ msgid "Parent Produkttyp"
+#~ msgstr "Aktuell produkttyp"
+
+#~ msgid "Parent Produkttyp:"
+#~ msgstr "Aktuell produkttyp:"
+
+#~ msgid "Edit Produkttyp"
+#~ msgstr "Redigera produkttyp"
+
+#~ msgid "Update Produkttyp"
+#~ msgstr "Uppdatera produkttyp"
+
+#~ msgid "Add New Produkttyp"
+#~ msgstr "Lägg till produkttyp"
+
+#~ msgid "New Produkttyp Name"
+#~ msgstr "Nytt produkttypsnamn"
+
+#~ msgid "Projects"
+#~ msgstr "Projekt"
+
+#~ msgid "Project"
+#~ msgstr "Projekt"
+
+#~ msgid "Search among projects"
+#~ msgstr "Sök bland projekt"
+
+#~ msgid "Sign Systems"
+#~ msgstr "Skyltsystem"
+
+#~ msgid "Sign System"
+#~ msgstr "Skyltsystem"
+
+#~ msgid "Search sign category"
+#~ msgstr "Sök skyltkategori"
+
+#~ msgid "All Sign category"
+#~ msgstr "Alla skyltkategorier"
+
+#~ msgid "Sign attribute"
+#~ msgstr "Skyltegenskap"
+
+#~ msgid "Search sign attribute"
+#~ msgstr "Sök egenskap"
+
+#~ msgid "All Sign attribute"
+#~ msgstr "Alla egenskaper"
+
+#~ msgid "Parent Sign attribute"
+#~ msgstr "Föräldraegenskap"
+
+#~ msgid "Parent Sign attribute:"
+#~ msgstr "Föräldraegenskap"
+
+#~ msgid "Edit Sign attribute"
+#~ msgstr "Redigera egenskap"
+
+#~ msgid "Update Sign attribute"
+#~ msgstr "Uppdatera egenskap"
+
+#~ msgid "Add New Sign attribute"
+#~ msgstr "Lägg till ny egenskap"
+
+#~ msgid "New Sign attribute Name"
+#~ msgstr "Nytt egenskapsnamn"
+
+#~ msgid "Teaser"
+#~ msgstr "Teaser"
+
+#~ msgid "Display varius posts (Advance)"
+#~ msgstr "Visa senaste posterna (Avancerat)"
+
+#, fuzzy
+#~ msgid "Display Link"
+#~ msgstr "Visa en lista?"
+
+#, fuzzy
+#~ msgid "Display Excerpt"
+#~ msgstr "Visa poster?"
+
+#, fuzzy
+#~ msgid "Display Date"
+#~ msgstr "Visa en lista?"
+
+#~ msgid "Latest Posts Advance"
+#~ msgstr "Senaste posterna (Avancerat)"
+
+#~ msgid "Page link"
+#~ msgstr "Sidlänk"
+
+#~ msgid "Arguments string"
+#~ msgstr "Sträng"
+
+#~ msgid "Show read more link?"
+#~ msgstr "Visa \"Läs mer\""
+
+#~ msgid "Excerpt length"
+#~ msgstr "Längd på utdrag"
+
+#~ msgid "Show number of posts"
+#~ msgstr "Visa antal poster"
+
+#~ msgid "Show current posts"
+#~ msgstr "Visa aktuella poster"
+
+#~ msgid "Show upcoming post"
+#~ msgstr "Visa kommande poster"
+
+#~ msgid "Show current & upcoming posts"
+#~ msgstr "Visa aktuella & kommande poster"
+
+#~ msgid "Show previous posts"
+#~ msgstr "Visa tidigare poster"
+
+#~ msgid "Show page link?"
+#~ msgstr "Visa sidlänk?"
+
+#~ msgid "Show post date"
+#~ msgstr "Visa postdatum?"
+
+#~ msgid "Show event date"
+#~ msgstr "Visa  händelsedatum?"
+
+#~ msgid "Advanced posts"
+#~ msgstr "Avancerade poster"
+
+#~ msgid "Current status:"
+#~ msgstr "Aktuell status"
+
+#~ msgid "No known malfunctions"
+#~ msgstr "Inga driftstörningar"
+
+#~ msgid "Planned downtime"
+#~ msgstr "Planerade arbeten"
+
+#~ msgid "Known disturbances"
+#~ msgstr "Driftstörningar"
+
+#~ msgid "Short message:"
+#~ msgstr "Kort meddelande"
+
+#~ msgid "Information page:"
+#~ msgstr "Informationssida"
+
+#~ msgid "Bozzanova Custom Latest Posts"
+#~ msgstr "Senaste posterna"
+
+#~ msgid "Name of thumbnail"
+#~ msgstr "Namn på miniatyrbild"
+
+#~ msgid "Bozzanova Widget Dashboard"
+#~ msgstr "Bozzanova Widget Dashboard"
+
+#~ msgid "Display current operating status"
+#~ msgstr "Visa aktuell driftstatus"
+
+#~ msgid "Operating status"
+#~ msgstr "Driftstatus"
+
+#~ msgid "Display Latest Posts Advance"
+#~ msgstr "Visa senaste posterna (Avancerat)"
+
+#~ msgid "Newer entries"
+#~ msgstr "Nästa sida"
+
+#~ msgid "Older entries"
+#~ msgstr "Föregående sida"
+
+#~ msgid "Bookmarks"
+#~ msgstr "Länkar"
+
+#~ msgid "Project date"
+#~ msgstr "Projektdatum"
+
+#~ msgid "No information"
+#~ msgstr "Information saknas för tillfället"
+
+#~ msgid "Exhibition date"
+#~ msgstr "Utställningsdatum"
+
+#~ msgid "Staff members located in %s"
+#~ msgstr "Anställd finns i %s"
+
+#~ msgid "1 Comment"
+#~ msgstr "1 kommentar"
+
+#~ msgid "% Comments"
+#~ msgstr "% kommentarer"
+
+#~ msgid "Category: %1$s"
+#~ msgstr "Kategori: %1$s"
+
+#~ msgid "img-full"
+#~ msgstr "Fullbredd"
+
+#, fuzzy
+#~ msgid "img-featured"
+#~ msgstr "Utvald"
+
+#~ msgid "You've got %s in your cart"
+#~ msgstr "Du har %s varor i din kundvagn"
+
+#~ msgid "Total"
+#~ msgstr "Ordersumma"
+
+#~ msgid "Edit shopping cart"
+#~ msgstr "Ändra i kundvagn"
+
+#~ msgid "Proceed to Checkout"
+#~ msgstr "Gå till kassan"
+
+#~ msgid "Your cart is empty."
+#~ msgstr "Din kundvagn är tom."
+
+#~ msgid "Your password has been changed successfully."
+#~ msgstr "Ditt lösenord har ändrats."
+
+#~ msgid "Your account has been updated."
+#~ msgstr "Ditt konto har uppdaterats."
+
+#~ msgid "Your account information"
+#~ msgstr "Kontoinformation"
+
+#~ msgid "First Name"
+#~ msgstr "Förnamn"
+
+#~ msgid "Last Name"
+#~ msgstr "Efternamn"
+
+#~ msgid ""
+#~ "I would like to continue receiving e-mail updates and special offers!"
+#~ msgstr ""
+#~ "Jag vill fortsätta att ta emot e-post om uppdateringar och erbjudanden!"
+
+#~ msgid "Change Your Password"
+#~ msgstr "Ändra lösenord"
+
+#~ msgid "New Password"
+#~ msgstr "Nytt lösenord"
+
+#~ msgid "Confirm Password"
+#~ msgstr "Bekräfta lösenord"
+
+#~ msgid "Save"
+#~ msgstr "Spara"
+
+#~ msgid "Order"
+#~ msgstr "Ordernr"
+
+#~ msgid "Amount"
+#~ msgstr "Belopp"
+
+#~ msgid "Download File"
+#~ msgstr "Ladda ner fil"
+
+#~ msgid "You have no digital product downloads available."
+#~ msgstr "Du har inga digitalproduktnedladdningar tillgängliga."
+
+#~ msgid "Order history"
+#~ msgstr "Orderhistrik"
+
+#~ msgid "Datum"
+#~ msgstr "Datum"
+
+#~ msgid "You have no orders, yet."
+#~ msgstr "Du har inga beställningar, ännu."
+
+#~ msgid "Art.no"
+#~ msgstr "Artikelnummer"
+
+#~ msgid "Add-ons"
+#~ msgstr "Tillval"
+
+#~ msgid "Estimate shipping &amp; taxes for"
+#~ msgstr "Uppskatta frakt & moms för"
+
+#~ msgid "Submit promo code"
+#~ msgstr "Använd rabattkod"
+
+#~ msgid "Subtotal"
+#~ msgstr "Delsumma"
+
+#~ msgid "Discount"
+#~ msgstr "Rabatt"
+
+#~ msgid "Shipping"
+#~ msgstr "Frakt"
+
+#~ msgid "Order Total"
+#~ msgstr "Ordersumma"
+
+#~ msgid "There are currently no items in your shopping cart."
+#~ msgstr "Det finns för närvarande inga varor i din kundvagn."
+
+#~ msgid "Continue Shopping"
+#~ msgstr "Fortsätt handla"
+
+#~ msgid "No products were found."
+#~ msgstr "Inga produkter hittades"
+
+#~ msgid "Login to Your Account"
+#~ msgstr "Logga in på ditt konto"
+
+#~ msgid "Email/User name"
+#~ msgstr "Användarnamn"
+
+#~ msgid "Login"
+#~ msgstr "Inloggning"
+
+#~ msgid "Password"
+#~ msgstr "Lösenord"
+
+#~ msgid "Company/Organization"
+#~ msgstr "Företag / organisation"
+
+#~ msgid "Password Confirmation"
+#~ msgstr "Bekräfta lösenordet"
+
+#~ msgid "Billing Address"
+#~ msgstr "Faktureringsadress"
+
+#~ msgid "Billing street address"
+#~ msgstr "Fakturerningsadress"
+
+#~ msgid "Postal/Zip Code billing address"
+#~ msgstr "Postnummer"
+
+#~ msgid "City billing address"
+#~ msgstr "Stad"
+
+#~ msgid "Country billing address"
+#~ msgstr "Land"
+
+#~ msgid "Shipping Address"
+#~ msgstr "Leveransadress"
+
+#~ msgid "Postal/Zip Code shipping address"
+#~ msgstr "Postnummer"
+
+#~ msgid "City shipping address"
+#~ msgstr "Stad"
+
+#~ msgid "Country shipping address"
+#~ msgstr "Land"
+
+#~ msgid "Same shipping address"
+#~ msgstr "Samma leveransadress som faktureringsadress"
+
+#~ msgid "Local Jurisdiction"
+#~ msgstr "Lokala jurisdiktion"
+
+#~ msgid "Payment Alternative"
+#~ msgstr "Betalningsalternativ"
+
+#~ msgid "Payment Information"
+#~ msgstr "Betalningsinformation"
+
+#~ msgid "Credit/Debit Card Number"
+#~ msgstr "Kredit-/bankkortnummer"
+
+#~ msgid "Card Type"
+#~ msgstr "Korttyp"
+
+#~ msgid "Valid"
+#~ msgstr "Gilltig"
+
+#~ msgid "MM"
+#~ msgstr "MM"
+
+#~ msgid "Card's 2-digit expiration month"
+#~ msgstr "Kortets 2-siffriga utgångsmånad"
+
+#~ msgid "YY"
+#~ msgstr "YY"
+
+#~ msgid "Card's 2-digit expiration year"
+#~ msgstr "Kortets 2-siffriga utgångsår"
+
+#~ msgid "Name on Card"
+#~ msgstr "Namn på kort"
+
+#~ msgid "Card Holder's Name"
+#~ msgstr "Kortinnehavarens namn"
+
+#~ msgid "Security ID"
+#~ msgstr "Säkerhets-ID"
+
+#~ msgid "Card's security code (3-4 digits on the back of the card)"
+#~ msgstr "Kortets säkerhetskod (3-4 siffror på baksidan av kortet)"
+
+#~ msgid "Start Date"
+#~ msgstr "Startdatum"
+
+#~ msgid "Card's start date (MM/YY)"
+#~ msgstr "Kortets startdatum (MM / YY)"
+
+#~ msgid "Issue #"
+#~ msgstr "Utfärdande #"
+
+#~ msgid "Card's issue number"
+#~ msgstr "Kortets löpnummer"
+
+#~ msgid "Yes, I would like to receive e-mail updates and special offers!"
+#~ msgstr ""
+#~ "Ja, jag skulle vilja ta emot e-post om uppdateringar och erbjudanden!"
+
+#~ msgid "Send order"
+#~ msgstr "Skicka beställning"
+
+#~ msgid "confirmed"
+#~ msgstr "Bekräftad"
+
+#~ msgid "Confirm order"
+#~ msgstr "Bekräfta beställning"
+
+#~ msgid "Errors"
+#~ msgstr "Fel"
+
+#~ msgid "Recover your password"
+#~ msgstr "Återställ ditt lösenord"
+
+#~ msgid "Login name"
+#~ msgstr "Användarnamn"
+
+#~ msgid "Lost your password?"
+#~ msgstr "Glömt ditt lösenord?"
+
+#~ msgid "Order Update"
+#~ msgstr "Orderuppdatering"
+
+#~ msgid "Your order is"
+#~ msgstr "Din beställning är"
+
+#~ msgid "Free shipping!"
+#~ msgstr "Gratis frakt!"
+
+#~ msgid "Select an add-on"
+#~ msgstr "Välj ett tillägg"
+
+#~ msgid "Product Not Found"
+#~ msgstr "Produkten kunde inte hittas"
+
+#~ msgid "Sorry! The product you requested is not found in our catalog!"
+#~ msgstr "Tyvärr! Produkten du valt är inte återfinns i vår katalog!"
+
+#~ msgid "Order Num:"
+#~ msgstr "Ordernummer:"
+
+#~ msgid "Order Date:"
+#~ msgstr "Orderdatum:"
+
+#~ msgid "Billed To:"
+#~ msgstr "Betalningssätt:"
+
+#~ msgid "Transaction:"
+#~ msgstr "Transaktion:"
+
+#~ msgid "Billed to"
+#~ msgstr "Betalningsmottagare:"
+
+#~ msgid "Ship to"
+#~ msgstr "Levereras till:"
+
+#~ msgid "Shipping:"
+#~ msgstr "Frakt:"
+
+#~ msgid "Cart Items"
+#~ msgstr "Varor i kundvagnen"
+
+#~ msgid "Quantity"
+#~ msgstr "Antal"
+
+#~ msgid "Item Total"
+#~ msgstr "Radsumma"
+
+#~ msgid "There were no items found for this purchase."
+#~ msgstr "Inga artiklar hittades för detta köp."
+
+#~ msgid "Items"
+#~ msgstr "Artiklar"
+
+#~ msgid "Select a shipping method"
+#~ msgstr "Välj ett leveransmetod"
+
+#~ msgid "Estimated delivery"
+#~ msgstr "Beräknad leveranstid"
+
+#~ msgid "Taxes"
+#~ msgstr "Moms"
+
+#~ msgid "Thank you for your order!"
+#~ msgstr "Tack för din order!"
+
+#~ msgid ""
+#~ "Your order has been received but the payment has not yet completed "
+#~ "processing."
+#~ msgstr ""
+#~ "Din beställning har tagits emot men betalningen har ännu inte avslutat "
+#~ "behandlingen."
+
+#~ msgid ""
+#~ "The download links on your order receipt will not work until the payment "
+#~ "is received."
+#~ msgstr ""
+#~ "Nedladdningslänkar på ditt kvitto fungerar inte förrän betalningen "
+#~ "inkommit."
+
+#~ msgid "Your items will not ship out until the payment is received."
+#~ msgstr ""
+#~ "Dina artiklar kommer inte att leverera förrän betalning har mottagits."
+
+#~ msgid ""
+#~ "An email was sent with account login information to the email address "
+#~ "provided for your order."
+#~ msgstr ""
+#~ "Ett e-postmeddelande har skickats med kontouppgifter till den e-"
+#~ "postadress som tillhandahålls för din beställning."
+
+#~ msgid "Login to your account"
+#~ msgstr "Logga in på ditt konto"
+
+#~ msgid ""
+#~ "to access your orders, change your password and manage your checkout "
+#~ "information."
+#~ msgstr ""
+#~ "för att få tillgång till dina beställningar, ändra lösenord och hantera "
+#~ "din kunduppgifter."
+
+#~ msgid ""
+#~ "Your order is still in progress and has not yet been received from the "
+#~ "payment processor. You will receive an email notification when your "
+#~ "payment has been verified and the order has been completed."
+#~ msgstr ""
+#~ "Din beställning pågår fortfarande och har ännu inte erhållits från "
+#~ "betalningsbehandlare. Du får ett e-postmeddelande när din betalning har "
+#~ "verifieras och ordern har slutförts."
+
+#~ msgid "Account Login"
+#~ msgstr "Kontoinloggning"
+
+#~ msgid "Page footer"
+#~ msgstr "Sidfot"
+
+#~ msgid "Line 2"
+#~ msgstr "Gatuadress rad 2"
+
+#~ msgid "State / Province"
+#~ msgstr "Län"
+
+#~ msgid "Your Account"
+#~ msgstr "Ditt konto"
+
+#~ msgid "Where to display Socials"
+#~ msgstr "Var ska ikoner visas"
+
+#~ msgid "List/Archive"
+#~ msgstr "Lista/arkiv"
+
+#~ msgid "Visit Bozzanova's website"
+#~ msgstr "Besök Bozzanovas webbsida"
+
+#~ msgid "Telephone:"
+#~ msgstr "Telefon:"
+
+#~ msgid "Estimate shipping &amp; taxes for:"
+#~ msgstr "Uppskatta frakt & moms för:"
+
+#~ msgid "Save "
+#~ msgstr "Spara"
+
+#~ msgid "Billing address line 2"
+#~ msgstr "Adress (rad 2)"
+
+#~ msgid "Address Line 2"
+#~ msgstr "Gatuadress rad 2"
+
+#~ msgid "State/Provice/Region billing address"
+#~ msgstr "Län"
+
+#~ msgid "Shipping address line 2"
+#~ msgstr "Adress (rad 2)"
+
+#~ msgid "State/Provice/Region shipping address"
+#~ msgstr "Län"
+
+#~ msgid "You save"
+#~ msgstr "Du sparar"
+
+#~ msgid "Free Shipping!"
+#~ msgstr "Gratis frakt!"
+
+#~ msgid "Items Ordered"
+#~ msgstr "Varor beställda"
+
+#~ msgid "Select a shipping method:"
+#~ msgstr "Välj ett leveransmetod:"
+
+#~ msgid "Continue shopping"
+#~ msgstr "Fortsätt handla"
+
+#~ msgid "Proceed to checkout"
+#~ msgstr "Gå till kassan"
+
+#~ msgid "Top of page"
+#~ msgstr "Upp"
+
+#~ msgid "Your order is:"
+#~ msgstr "Din beställning är:"
+
+#~ msgid "Contentblock link"
+#~ msgstr "Inforutor"
+
+#~ msgid "Featured image caption"
+#~ msgstr "Utvald bildtext"
+
+#~ msgid "Page link name"
+#~ msgstr "Sidlänknamn"
+
+#~ msgid "Bottom Navigation"
+#~ msgstr "Sidfotsnavigering"
+
+#~ msgid "Daily Archives: <span>%s</span>"
+#~ msgstr "Dagligt arkiv: <span>%s</span>"
+
+#~ msgid "Monthly Archives: <span>%s</span>"
+#~ msgstr "Månadsarkiv: <span>%s</span>"
+
+#~ msgid "Yearly Archives: <span>%s</span>"
+#~ msgstr "Årsarkiv: <span>%s</span>"
+
+#~ msgid "Blog Archives"
+#~ msgstr "Arkiv"
+
+#~ msgid "Featured bundles"
+#~ msgstr "Aktuella erbjudanden"
+
+#~ msgid "The price for the bundel in SEK. (<em>E.g: 1.350:-</em>)"
+#~ msgstr "Priset för detta paketerbjudande. (<em>Ex. 1.350:-</em>)"
+
+#~ msgid "Bundles"
+#~ msgstr "Erbjudande"
+
+#~ msgid "Search among bundles"
+#~ msgstr "Sök erbjudande"
+
+#~ msgid "Slideshow"
+#~ msgstr "Bildspel"
+
+#~ msgid "Pick page"
+#~ msgstr "Välj sida"
+
+#~ msgid "Blabla..."
+#~ msgstr "Text1"
+
+#~ msgid "View employee"
+#~ msgstr "visa"
+
+#~ msgid "No employee matched your search query"
+#~ msgstr "Inget matchade din sökning"
+
+#~ msgid "No employee in the trash matched your search query"
+#~ msgstr "Inget i papperskorgen matchade din sökning"
